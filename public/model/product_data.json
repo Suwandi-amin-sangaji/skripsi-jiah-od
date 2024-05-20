@@ -1,0 +1,6 @@
+[ 
+    { "id": 0,  "font_color": "#ffffff"},  
+    { "id": 1, "name": "Deterjen Daia", "price": 15000, "color": "#f44336", "font_color": "#ffffff"},
+    { "id": 2, "name": "Mie", "price": 3000, "color": "#2196f3", "font_color": "#ffffff"},
+    { "id": 3, "name": "Minyak Goreng",  "price": 20000, "color": "#4caf50", "font_color": "#ffffff"}
+]

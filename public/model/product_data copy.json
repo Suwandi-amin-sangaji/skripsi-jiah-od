@@ -1,0 +1,17 @@
+[   
+    { "id": 0, "name": "", "color": "", "price": 0 },
+    { "id": 1, "name": "Deterjen Daia", "price": 15000, "color": "#f44336", "font_color": "#ffffff"},
+    { "id": 2, "name": "Mie", "price": 3000, "color": "#2196f3", "font_color": "#ffffff"},
+    { "id": 3, "name": "Pop Mie",  "price": 20000, "color": "#4caf50", "font_color": "#ffffff"},
+    { "id": 4, "name": "Sampo", "price": 15000, "color": "#f44336", "font_color": "#ffffff"},
+    { "id": 5, "name": "Sabun Lifebouy", "price": 3000, "color": "#2196f3", "font_color": "#ffffff"},
+    { "id": 6, "name": "Teh Kotak",  "price": 20000, "color": "#4caf50", "font_color": "#ffffff"},
+    { "id": 7, "name": "Tanggo", "price": 15000, "color": "#f44336", "font_color": "#ffffff"},
+    { "id": 8, "name": "Rexona", "price": 3000, "color": "#2196f3", "font_color": "#ffffff"},
+    { "id": 9, "name": "Pepsodent",  "price": 20000, "color": "#4caf50", "font_color": "#ffffff"},
+    { "id": 10, "name": "Downi", "price": 15000, "color": "#f44336", "font_color": "#ffffff"},
+    { "id": 11, "name": "Tissue", "price": 3000, "color": "#2196f3", "font_color": "#ffffff"},
+    { "id": 12, "name": "Kecap ABC",  "price": 20000, "color": "#4caf50", "font_color": "#ffffff"},
+    { "id": 13, "name": "Sambal ABC", "price": 3000, "color": "#2196f3", "font_color": "#ffffff"},
+    { "id": 14, "name": "Ponds",  "price": 20000, "color": "#4caf50", "font_color": "#ffffff"}
+]
