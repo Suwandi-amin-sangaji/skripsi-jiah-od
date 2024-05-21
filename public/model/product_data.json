@@ -1,6 +1,106 @@
-[ 
-    { "id": 0,  "font_color": "#ffffff"},  
-    { "id": 1, "name": "Deterjen Daia", "price": 15000, "color": "#f44336", "font_color": "#ffffff"},
-    { "id": 2, "name": "Mie", "price": 3000, "color": "#2196f3", "font_color": "#ffffff"},
-    { "id": 3, "name": "Minyak Goreng",  "price": 20000, "color": "#4caf50", "font_color": "#ffffff"}
+[
+    {
+        "id": 0,
+        "name": "",
+        "color": "",
+        "price": 0
+    },
+    {
+        "id": 1,
+        "name": "Deterjen Daia",
+        "price": 15000,
+        "color": "#f44336",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 2,
+        "name": "Downi",
+        "price": 3000,
+        "color": "#2196f3",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 3,
+        "name": "Kecap ABC",
+        "price": 20000,
+        "color": "#4caf50",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 4,
+        "name": "Mie",
+        "price": 15000,
+        "color": "#f44336",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 5,
+        "name": "Pasta Gigi",
+        "price": 3000,
+        "color": "#2196f3",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 6,
+        "name": "Ponds",
+        "price": 20000,
+        "color": "#4caf50",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 7,
+        "name": "Pop Mie",
+        "price": 15000,
+        "color": "#f44336",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 8,
+        "name": "Rexona",
+        "price": 3000,
+        "color": "#2196f3",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 9,
+        "name": "Sabun Lafebuoy",
+        "price": 20000,
+        "color": "#4caf50",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 10,
+        "name": "Sambal ABC",
+        "price": 15000,
+        "color": "#f44336",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 11,
+        "name": "Sampo",
+        "price": 3000,
+        "color": "#2196f3",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 12,
+        "name": "Tanggo",
+        "price": 20000,
+        "color": "#4caf50",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 13,
+        "name": "teh Kotak",
+        "price": 3000,
+        "color": "#2196f3",
+        "font_color": "#ffffff"
+    },
+    {
+        "id": 14,
+        "name": "Tissue",
+        "price": 20000,
+        "color": "#4caf50",
+        "font_color": "#ffffff"
+    }
 ]
